@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋 I'm [HAmza]
 
-<!--
-**Hamzahassanfarah/hamzahassanfarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
+📊 Aspiring Data Analyst
+💻 Passionate about technology, data, and problem solving
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 📚 Currently studying **Computer Engineering**
+* 📊 Interested in **Data Analysis**
+* 🧠 Learning new technologies and improving my coding skills
+* 🎯 Goal: Become a professional **Data Analyst**
+
+---
+
+## 🛠️ Skills
+
+* Python
+* SQL
+* Excel
+* Data Visualization
+* Basic Machine Learning
+
+---
+
+## 📫 Contact Me
+
+* LinkedIn: https://www.linkedin.com/in/hamza-hassanfarah-4b2aa7356/
+* Email: hamzahassanfarah912@gmail.com
+
+---
+
+⭐ Always learning and building new projects.
