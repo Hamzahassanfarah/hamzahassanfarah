@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [HAmza]
+# Hi there 👋 I'm [Hamza]
 
 🎓 Computer Engineering Student
 📊 Aspiring Data Analyst
